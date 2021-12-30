@@ -27,6 +27,8 @@ https://platinmods.com/threads/how-to-make-a-teleport-hack.137887/
 
 https://iosgods.com/topic/144922-subway-surfers-offsets-2172/
 
+https://github.com/joeyjurjens/theos_projects
+
 -----------------Tutorials---------------------
 
 https://iosgods.com/topic/86010-how-to-unlink-features-on-unity-games-real-examples/#comment-2691120
