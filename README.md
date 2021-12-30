@@ -21,15 +21,29 @@ https://github.com/Spoowy63/iOS-Encrypted-MMT
 
 ![image](https://user-images.githubusercontent.com/67495343/147773526-fca6305c-30f8-45bc-ab31-2bac2c18520a.png)
 
+-----------------LoginForMenu---------------------
+
+https://github.com/Rednick16/serversided-auth-login
+
+-----------------Aimbot---------------------
+
+https://github.com/GodzExploit/ShadowgunLegendsAimbot
+
 -----------------Esp---------------------
 
 https://github.com/MobeanIM/esp-source-code-for-ios
 
 https://github.com/busmanl30/ESP-Source
 
------------------Telekill---------------------
+-----------------Telekill/Masskill---------------------
 
 https://iosgods.com/topic/103654-telekill-forward-assault-v12003/#comments
+
+https://github.com/Rednick16/Telekill
+
+https://github.com/AutoTEC1204/Telekill
+
+https://github.com/AutoTEC1204/Masskill
 
 -----------------TeleportHack---------------------
 
@@ -41,6 +55,10 @@ https://iosgods.com/topic/144922-subway-surfers-offsets-2172/
 
 https://github.com/joeyjurjens/theos_projects
 
+-----------------Tools---------------------
+
+https://github.com/Rednick16/LiveShaderTester-iOS
+
 -----------------Tutorials---------------------
 
 https://iosgods.com/topic/86010-how-to-unlink-features-on-unity-games-real-examples/#comment-2691120
@@ -48,4 +66,6 @@ https://iosgods.com/topic/86010-how-to-unlink-features-on-unity-games-real-examp
 https://platinmods.com/threads/hooking-tutorial-template-for-teds-menu-template.127824/
 
 https://platinmods.com/forums/ios-tutorials.163/
+
+
 
