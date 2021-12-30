@@ -27,7 +27,11 @@ https://github.com/Rednick16/serversided-auth-login
 
 -----------------Aimbot---------------------
 
-https://github.com/GodzExploit/ShadowgunLegendsAimbot
+https://github.com/shmoo419/ShadowgunLegendsAimbot
+
+https://github.com/shmoo419/CriticalOpsAimbot
+
+https://github.com/shmoo419/SniperArenaAimbot
 
 -----------------Esp---------------------
 
