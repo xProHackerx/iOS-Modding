@@ -19,7 +19,19 @@ https://github.com/busmanl30/ESP-Source
 
 https://iosgods.com/topic/103654-telekill-forward-assault-v12003/#comments
 
+-----------------TeleportHack---------------------
+
+https://platinmods.com/threads/how-to-make-a-teleport-hack.137887/
+
 -----------------SourcesOfModsOthers---------------------
 
 https://iosgods.com/topic/144922-subway-surfers-offsets-2172/
+
+-----------------Tutorials---------------------
+
+https://iosgods.com/topic/86010-how-to-unlink-features-on-unity-games-real-examples/#comment-2691120
+
+https://platinmods.com/threads/hooking-tutorial-template-for-teds-menu-template.127824/
+
+https://platinmods.com/forums/ios-tutorials.163/
 
