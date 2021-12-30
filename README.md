@@ -14,3 +14,12 @@ https://drive.google.com/file/d/1HbRUJLzvwNv3eYicgC8iNBdU7HGvvWFH/view
 https://github.com/MobeanIM/esp-source-code-for-ios
 
 https://github.com/busmanl30/ESP-Source
+
+-----------------Telekill---------------------
+
+https://iosgods.com/topic/103654-telekill-forward-assault-v12003/#comments
+
+-----------------SourcesOfModsOthers---------------------
+
+https://iosgods.com/topic/144922-subway-surfers-offsets-2172/
+
