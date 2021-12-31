@@ -1,4 +1,4 @@
-# iOS
+# iOS-Modding
 
 A collection of github repositories related to iOS modding.
 
