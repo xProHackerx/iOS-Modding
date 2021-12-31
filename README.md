@@ -25,6 +25,10 @@ https://github.com/Spoowy63/iOS-Encrypted-MMT
 
 https://github.com/Rednick16/serversided-auth-login
 
+-----------------UnityStuff---------------------
+
+https://github.com/kp7742/UnityStuff
+
 -----------------Aimbot---------------------
 
 https://github.com/shmoo419/ShadowgunLegendsAimbot
