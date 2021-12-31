@@ -1,5 +1,8 @@
 # iOS
-------------------ModMenu----------------
+
+A collection of github repositories related to iOS modding.
+
+# ------------------ModMenu----------------
 
 https://github.com/joeyjurjens/iOS-Mod-Menu-Template-for-Theos
 
@@ -21,15 +24,15 @@ https://github.com/Spoowy63/iOS-Encrypted-MMT
 
 ![image](https://user-images.githubusercontent.com/67495343/147773526-fca6305c-30f8-45bc-ab31-2bac2c18520a.png)
 
------------------LoginForMenu---------------------
+# -----------------LoginForMenu---------------------
 
 https://github.com/Rednick16/serversided-auth-login
 
------------------UnityStuff---------------------
+# -----------------UnityStuff---------------------
 
 https://github.com/kp7742/UnityStuff
 
------------------Aimbot---------------------
+# -----------------Aimbot---------------------
 
 https://github.com/shmoo419/ShadowgunLegendsAimbot
 
@@ -37,13 +40,13 @@ https://github.com/shmoo419/CriticalOpsAimbot
 
 https://github.com/shmoo419/SniperArenaAimbot
 
------------------Esp---------------------
+# -----------------Esp---------------------
 
 https://github.com/MobeanIM/esp-source-code-for-ios
 
 https://github.com/busmanl30/ESP-Source
 
------------------Telekill/Masskill---------------------
+# -----------------Telekill/Masskill---------------------
 
 https://iosgods.com/topic/103654-telekill-forward-assault-v12003/#comments
 
@@ -53,7 +56,7 @@ https://github.com/AutoTEC1204/Telekill
 
 https://github.com/AutoTEC1204/Masskill
 
------------------TeleportHack---------------------
+# -----------------TeleportHack---------------------
 
 https://platinmods.com/threads/how-to-make-a-teleport-hack.137887/
 
@@ -63,11 +66,11 @@ https://iosgods.com/topic/144922-subway-surfers-offsets-2172/
 
 https://github.com/joeyjurjens/theos_projects
 
------------------Tools---------------------
+# -----------------Tools---------------------
 
 https://github.com/Rednick16/LiveShaderTester-iOS
 
------------------Tutorials---------------------
+# -----------------Tutorials---------------------
 
 https://iosgods.com/topic/86010-how-to-unlink-features-on-unity-games-real-examples/#comment-2691120
 
