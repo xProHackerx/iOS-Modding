@@ -66,6 +66,8 @@ https://iosgods.com/topic/144922-subway-surfers-offsets-2172/
 
 https://github.com/joeyjurjens/theos_projects
 
+https://platinmods.com/threads/source-code-pixel-combat-hooking-source.101680/
+
 https://github.com/Greenphx9/pg3d-menu-source-code
 
 # -----------------Tools---------------------
