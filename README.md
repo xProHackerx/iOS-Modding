@@ -6,6 +6,10 @@ A collection of github repositories related to iOS modding.
 
 https://github.com/mishavac/RECORDABLE-OVERLAY-MOD-MENU - overlay mod menu (hide from screen capture)
 
+https://github.com/xProHackerx/imgui-ios-mod-menu
+
+![image](https://user-images.githubusercontent.com/67495343/179341382-4e2b379f-411c-4265-bd51-e6f2cb59c99d.png)
+
 https://github.com/joeyjurjens/iOS-Mod-Menu-Template-for-Theos
 
 ![image](https://user-images.githubusercontent.com/67495343/147773629-7a6966d4-e2a4-4f0a-a9c5-3dacbe6df00b.png)
